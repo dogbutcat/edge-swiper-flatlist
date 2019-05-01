@@ -11,7 +11,7 @@ logic support react native >= 0.44, tested on react native >= 0.51
 ----
 
 ```sh
-npm install git+[git repo]
+npm install git+https://github.com/dogbutcat/edge-swiper-flatlist.git --save-dev
 ```
 
 ## Example
